@@ -14,6 +14,6 @@ I also test the effects of varying the following ***structural and algorithmic h
 - Number of hidden units
 - Initialization
 
-Link to ![Notebook](notebooks/vanillaNetwork.ipynb)
+Link to [Notebook](notebooks/vanillaNetwork.ipynb)
 
 ![AccuraciesVariation](<img/AccuraciesVariation.jpg>)
